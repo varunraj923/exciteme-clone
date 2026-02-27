@@ -10,7 +10,7 @@ export const characters = [
     comments: 1,
     rating: 3.0,
     ratingCount: 1,
-    image: "https://picsum.photos/seed/kay1/300/400",
+    image: "https://d1gpo88w53gcnk.cloudfront.net/user-images/lt_86qs21st9o6k/2026/02/837773ae-18b8-4c46-b52b-1d09b2cc4622.webp",
     nsfw: false,
   },
   {
@@ -23,7 +23,7 @@ export const characters = [
     comments: 0,
     rating: 1.4,
     ratingCount: 2,
-    image: "https://picsum.photos/seed/jasmine2/300/400",
+    image: "https://d1gpo88w53gcnk.cloudfront.net/user-images/lt_dxqe3oos7sh8/2026/02/9f5a89ef-501d-4130-a5e3-f8d4eecf6456.webp",
     nsfw: false,
   },
   {
@@ -36,7 +36,7 @@ export const characters = [
     comments: 2,
     rating: 0.0,
     ratingCount: 0,
-    image: "https://picsum.photos/seed/dobby3/300/400",
+    image: "https://d1gpo88w53gcnk.cloudfront.net/user-images/lt_0wh2v8hac1y7/2026/02/bc10c284-d0a2-4504-af58-570d49d2e929.webp",
     nsfw: true,
   },
   {
@@ -49,7 +49,7 @@ export const characters = [
     comments: 1,
     rating: 0.0,
     ratingCount: 0,
-    image: "https://picsum.photos/seed/nimbaaa4/300/400",
+    image: "https://d1gpo88w53gcnk.cloudfront.net/user-images/lt_dv9e8gp23sx8/2026/02/bf0523b8-0dcf-4589-a7c6-0f9f438bba72.webp",
     nsfw: false,
   },
   {
@@ -62,7 +62,7 @@ export const characters = [
     comments: 0,
     rating: 4.5,
     ratingCount: 12,
-    image: "https://picsum.photos/seed/nova5/300/400",
+    image: "https://d1gpo88w53gcnk.cloudfront.net/user-images/lt_86qs21st9o6k/2026/02/837773ae-18b8-4c46-b52b-1d09b2cc4622.webp",
     nsfw: false,
   },
   {
@@ -75,7 +75,7 @@ export const characters = [
     comments: 3,
     rating: 4.8,
     ratingCount: 5,
-    image: "https://picsum.photos/seed/rose6/300/400",
+    image: "https://d1gpo88w53gcnk.cloudfront.net/user-images/lt_dxqe3oos7sh8/2026/02/9f5a89ef-501d-4130-a5e3-f8d4eecf6456.webp",
     nsfw: false,
   },
   {
@@ -88,7 +88,7 @@ export const characters = [
     comments: 4,
     rating: 4.9,
     ratingCount: 20,
-    image: "https://picsum.photos/seed/ironman7/300/400",
+    image: "https://d1gpo88w53gcnk.cloudfront.net/user-images/lt_0wh2v8hac1y7/2026/02/bc10c284-d0a2-4504-af58-570d49d2e929.webp",
     nsfw: false,
   },
   {
@@ -101,7 +101,7 @@ export const characters = [
     comments: 0,
     rating: 3.5,
     ratingCount: 3,
-    image: "https://picsum.photos/seed/axa8/300/400",
+    image: "https://d1gpo88w53gcnk.cloudfront.net/user-images/lt_dv9e8gp23sx8/2026/02/bf0523b8-0dcf-4589-a7c6-0f9f438bba72.webp",
     nsfw: false,
   },
   {
@@ -114,7 +114,7 @@ export const characters = [
     comments: 0,
     rating: 0.0,
     ratingCount: 0,
-    image: "https://picsum.photos/seed/nick9/300/400",
+    image: "https://d1gpo88w53gcnk.cloudfront.net/user-images/lt_86qs21st9o6k/2026/02/837773ae-18b8-4c46-b52b-1d09b2cc4622.webp",
     nsfw: false,
   },
   {
@@ -127,7 +127,7 @@ export const characters = [
     comments: 1,
     rating: 5.0,
     ratingCount: 2,
-    image: "https://picsum.photos/seed/doggy10/300/400",
+    image: "https://d1gpo88w53gcnk.cloudfront.net/user-images/lt_dxqe3oos7sh8/2026/02/9f5a89ef-501d-4130-a5e3-f8d4eecf6456.webp",
     nsfw: false,
   },
   {
@@ -140,7 +140,7 @@ export const characters = [
     comments: 5,
     rating: 4.7,
     ratingCount: 8,
-    image: "https://picsum.photos/seed/luna11/300/400",
+    image: "https://d1gpo88w53gcnk.cloudfront.net/user-images/lt_0wh2v8hac1y7/2026/02/bc10c284-d0a2-4504-af58-570d49d2e929.webp",
     nsfw: false,
   },
   {
@@ -153,7 +153,7 @@ export const characters = [
     comments: 2,
     rating: 4.2,
     ratingCount: 7,
-    image: "https://picsum.photos/seed/rex12/300/400",
+    image: "https://d1gpo88w53gcnk.cloudfront.net/user-images/lt_dv9e8gp23sx8/2026/02/bf0523b8-0dcf-4589-a7c6-0f9f438bba72.webp",
     nsfw: false,
   },
 ];
