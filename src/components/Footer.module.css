@@ -1,0 +1,142 @@
+.footer {
+    margin-top: 40px;
+    padding: 40px 0;
+    border-top: 1px solid #2a2a2a;
+    position: relative;
+    background: transparent;
+    padding-bottom: 60px;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    max-width: 1200px;
+    padding-right: 60px;
+    /* Room for scroll to top button */
+}
+
+.leftSection {
+    max-width: 400px;
+}
+
+.logo {
+    margin-bottom: 24px;
+}
+
+.logoIcon {
+    font-size: 40px;
+    line-height: 1;
+    filter: drop-shadow(0 0 8px rgba(232, 73, 26, 0.4));
+}
+
+.description {
+    color: #fff;
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    font-weight: 600;
+    margin-bottom: 40px;
+}
+
+.copyright {
+    color: #fff;
+    font-family: 'Nunito', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.linksSection {
+    display: flex;
+    gap: 80px;
+}
+
+.linkGroup {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.linkGroup h4 {
+    color: #fff;
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    margin: 0 0 8px 0;
+}
+
+.linkGroup a {
+    color: #f1f1f1;
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.2s;
+    display: flex;
+    align-items: center;
+}
+
+.linkGroup a:hover {
+    color: #e8491a;
+}
+
+.socialLink .icon {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.socialLink svg {
+    color: #f1f1f1;
+}
+
+.socialLink:hover svg {
+    color: #e8491a;
+}
+
+.scrollToTop {
+    position: absolute;
+    right: 16px;
+    bottom: 20px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #ff5a1f;
+    color: white;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: background 0.2s, transform 0.2s;
+}
+
+.scrollToTop:hover {
+    background: #e8491a;
+    transform: translateY(-2px);
+}
+
+@media (max-width: 900px) {
+    .content {
+        flex-direction: column;
+        padding-right: 0;
+    }
+
+    .linksSection {
+        gap: 40px;
+        flex-wrap: wrap;
+    }
+
+    .scrollToTop {
+        bottom: -60px;
+        right: 50%;
+        transform: translateX(50%);
+    }
+}
+
+@media (max-width: 600px) {
+    .linksSection {
+        flex-direction: column;
+        gap: 30px;
+    }
+}
